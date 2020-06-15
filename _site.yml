@@ -1,0 +1,9 @@
+name: "fish-552"
+output_dir: "."
+navbar:
+  title: "FISH 552"
+  left:
+    - text: "Syllabus"
+      href: index.html
+    - text: "Lectures"
+      href: lectures.html
