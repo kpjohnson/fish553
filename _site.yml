@@ -1,5 +1,5 @@
 name: "fish-552"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "FISH 552"
   left:
@@ -7,3 +7,7 @@ navbar:
       href: index.html
     - text: "Lectures"
       href: lectures.html
+output:
+  html_document: 
+    theme: journal
+    highlight: textmate
