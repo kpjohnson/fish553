@@ -1,5 +1,5 @@
 ---
-title: "Introduction to R Programming"
+title: "Advanced R Programming"
 subtitle: "Enrollment Frequently Asked Questions"
 output:
   html_document:
@@ -29,9 +29,9 @@ I teach FISH 552 from the very basics (e.g., never used R before) and I think co
 
 <br>
 
-**Are statistics covered in FISH 552?**
+**Are statistics covered in FISH 553?**
 
-Not explictly. Our focus will be on using R and RStudio to prepare data for statistical analysis. 
+Not explictly. Our focus will be on using R and RStudio to prepare data for statistical analysis.
 
 <br>
 

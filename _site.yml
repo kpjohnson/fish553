@@ -1,7 +1,7 @@
-name: "fish-552"
+name: "fish-553"
 output_dir: "docs"
 navbar:
-  title: "FISH 552"
+  title: "FISH 553"
   right:
     - text: "Syllabus"
       href: index.html
@@ -9,5 +9,5 @@ navbar:
       href: faq.html
 output:
   html_document: 
-    theme: flatly
-    highlight: textmate
+    theme: sandstone
+    highlight: zenburn

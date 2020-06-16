@@ -1,6 +1,6 @@
 ---
-title: "Introduction to R Programming"
-subtitle: "FISH 552 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Autumn 2020"
+title: "Advanced R Programming"
+subtitle: "FISH 553 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Autumn 2020"
 output:
   html_document:
     toc: true
@@ -13,7 +13,7 @@ output:
 # Summer 2020 Updates
 
 * Check out the [Enrollment FAQ](faq.html)
-* FISH 552 is the 1st in a series of 2 courses. 
+* FISH 553 is 2nd in a series of 2 courses. 
   * FISH 552 runs for 5 weeks: Wednesday 09/30/2020 to Wednesday 10/28/2020
   * FISH 553 runs for the remaining 5 weeks: Monday 10/31/2020 to Wednesday 12/09/2020
 * How to enroll: The Autumn 2020 SLN for FISH 552 is 15320
@@ -54,11 +54,9 @@ Email: [kpjohns@uw.edu](mailto:kpjohns@uw.edu)
 # Meeting times & locations
 M/W from 11:30 am - 1:20 pm in ~~MGH 030~~ via Zoom
 
-First class meeting: 09/30/2020 
+First class meeting: 10/31/2020 
 
-Last class meeting: 10/28/2020
-
-Followed immediately by 10 lectures of FISH 553 Advanced R Programming from 10/31/2020 to 12/09/2020 (requires separate enrollment).
+Last class meeting: 12/09/2020
 
 <br>
 
