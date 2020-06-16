@@ -2,12 +2,12 @@ name: "fish-552"
 output_dir: "docs"
 navbar:
   title: "FISH 552"
-  left:
+  right:
     - text: "Syllabus"
       href: index.html
-    - text: "Lectures"
-      href: lectures.html
+    - text: "Enrollment FAQ"
+      href: faq.html
 output:
   html_document: 
-    theme: journal
+    theme: flatly
     highlight: textmate
