@@ -8,13 +8,20 @@ output:
     toc_depth: 3
 ---
 
-*I am an incoming SAFS graduate student and I cannot yet enroll in UW courses. Will there be room for me?*
+<br>
+
+**I am an incoming SAFS graduate student and I cannot yet enroll in UW courses. Will there be room for me?**
 
 Yes, I have reserved spaces for you. Please [email me](mailto:kpjohns@uw.edu), I have an add code waiting for you.
 
-*The class description indicates that it is currently only open to graduate students and 5th year undergraduate students. Would there be space for me in this class?*
+<br>
+
+**The class description indicates that it is currently only open to graduate students and 5th year undergraduate students. Would there be space for me in this class?**
+
 
 Graduate and undergraduate students in the School of Aquatic and Fishery Sciences have first access to enrollment during the initial registration periods. However, the course is then open to UW graduate and undergraduate students from other departments. Based on upon historic enrollment, there is room after the initial enrollment periods. 
+
+<br>
 
 **I have previously taken FISH 274, does this give me enough background to be successful in your class?**
 
@@ -23,11 +30,13 @@ I teach FISH 552 from the very basics (e.g., never used R before) and I think co
 <br>
 
 **Are statistics covered in FISH 552?**
+
 Not explictly. Our focus will be on using R and RStudio to prepare data for statistical analysis. 
 
 <br>
 
 **I have a question not covered here!**
+
 Neat, send me an [email](mailto:kpjohns@uw.edu) with your question and I will provide an answer and likely post it here.
 
 
