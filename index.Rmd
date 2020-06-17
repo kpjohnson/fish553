@@ -26,7 +26,7 @@ output:
 
 # Course overview
 
-This course will introduce students to the R programming language and RStudio integrated development environment within the context of the aquatic and fishery sciences. Students will learn how to read data files into RStudio, create exploratory plots, manipulate data to prepare for analysis, and write functions. This course also introduces students to best practices for programming in R (*e.g.*, commenting, syntax spacing, code testing, and using R projects). In general, students will use case studies from various fisheries disciplines and focus on critically evaluating data documentation and quality assurance, integrating multiple data sources, and preparing data for statistical analyses.
+This course will introduce students to Advanced R programming within the context of the aquatic and fishery sciences. Students will learn how to use functions and for loops, practice foundational programming principles and debugging approaches, organize large projects, and be introduced to the `rmarkdown` package. This course also briefly introduces students to R programming philosophies (*e.g.*, `tidyverse`) and discusses the merits of open science and reproducibility. In general, students will use case studies from various fisheries disciplines and focus on critically evaluating data documentation and quality assurance, integrating multiple data sources, formatting data for statistical analyses, and preparing analysis reports.
 
 <!-- <br> -->
 
@@ -52,7 +52,7 @@ Email: [kpjohns@uw.edu](mailto:kpjohns@uw.edu)
 <br>
 
 # Meeting times & locations
-M/W from 11:30 am - 1:20 pm in ~~MGH 030~~ via Zoom
+M/W from 11:30 am - 1:20 pm in ~~MGH 044~~ via Zoom
 
 First class meeting: 10/31/2020 
 
