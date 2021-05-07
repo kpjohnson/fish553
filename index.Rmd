@@ -14,13 +14,8 @@ output:
 
 * Check out the [Enrollment FAQ](faq.html)
 * FISH 553 is 2nd in a series of 2 courses. 
-<<<<<<< HEAD
-  * FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/01/2021
-  * FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/08/2021
-=======
-  * FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/02/2021
-  * FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/10/2021
->>>>>>> 07ef9357887b7f431f66d4efd4c2a66737140b11
+* FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/01/2021
+* FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/08/2021
 * How to enroll: The Autumn 2021 SLN for FISH 552 is 15581
 * How to enroll: The Autumn 2021 SLN for FISH 553 is 15582
 * You have to enroll in FISH 552 and 553 separately, if you want to take both.
@@ -31,7 +26,7 @@ output:
 
 # Course overview
 
-This course will introduce students to Advanced R programming within the context of the aquatic and fishery sciences. Students will learn how to use functions and for loops, practice foundational programming principles and debugging approaches, organize large projects, and be introduced to the `rmarkdown` package. This course also briefly introduces students to R programming philosophies (*e.g.*, `tidyverse`) and discusses the merits of open science and reproducibility. In general, students will use case studies from various fisheries disciplines and focus on critically evaluating data documentation and quality assurance, integrating multiple data sources, formatting data for statistical analyses, and preparing analysis reports.
+This course will introduce students to the R programming language and RStudio integrated development environment within the context of the aquatic and fishery sciences. Students will learn how to read data files into RStudio, create exploratory plots, manipulate data to prepare for analysis, and write functions. This course also introduces students to best practices for programming in R (*e.g.*, commenting, syntax spacing, code testing, and using R projects). In general, students will use case studies from various fisheries disciplines and focus on critically evaluating data documentation and quality assurance, integrating multiple data sources, and preparing data for statistical analyses.
 
 <!-- <br> -->
 
