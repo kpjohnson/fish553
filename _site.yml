@@ -1,0 +1,13 @@
+name: "fish-553"
+output_dir: "docs"
+navbar:
+  title: "FISH 553"
+  right:
+    - text: "Syllabus"
+      href: index.html
+    - text: "Enrollment FAQ"
+      href: faq.html
+output:
+  html_document: 
+    theme: sandstone
+    highlight: zenburn
