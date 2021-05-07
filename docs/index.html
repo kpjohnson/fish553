@@ -13,6 +13,7 @@
 
 <title>Advanced R Programming</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
@@ -23,6 +24,7 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 
 
 
@@ -349,26 +351,26 @@ div.tocify {
 
 
 <h1 class="title toc-ignore">Advanced R Programming</h1>
-<h3 class="subtitle">FISH 553     University of Washington     Autumn 2020</h3>
+<h3 class="subtitle">FISH 553     University of Washington     Autumn 2021</h3>
 
 </div>
 
 
 <p><br></p>
-<div id="summer-2020-updates" class="section level1">
-<h1>Summer 2020 Updates</h1>
+<div id="spring-2021-updates" class="section level1">
+<h1>Spring 2021 Updates</h1>
 <ul>
 <li>Check out the <a href="faq.html">Enrollment FAQ</a></li>
 <li>FISH 553 is 2nd in a series of 2 courses.
 <ul>
-<li>FISH 552 runs for 5 weeks: Wednesday 09/30/2020 to Wednesday 10/28/2020</li>
-<li>FISH 553 runs for the remaining 5 weeks: Monday 10/31/2020 to Wednesday 12/09/2020</li>
+<li>FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/01/2021</li>
+<li>FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/08/2021</li>
 </ul></li>
-<li>How to enroll: The Autumn 2020 SLN for FISH 552 is 15320</li>
-<li>How to enroll: The Autumn 2020 SLN for FISH 553 is 15321</li>
+<li>How to enroll: The Autumn 2021 SLN for FISH 552 is 15581</li>
+<li>How to enroll: The Autumn 2021 SLN for FISH 553 is 15582</li>
 <li>You have to enroll in FISH 552 and 553 separately, if you want to take both.</li>
 <li>You can enroll in just FISH 552 or 553 if this suits your educational goals</li>
-<li><strong>I am preparing this 2020 course as a synchronous online offering–this means that we will meet during our scheduled course time via Zoom</strong></li>
+<li><strong>Given the most recent information I have received from the UW, I am preparing this 2021 course as a synchronous in-person offering</strong></li>
 </ul>
 <p><br></p>
 </div>
@@ -394,9 +396,9 @@ div.tocify {
 </div>
 <div id="meeting-times-locations" class="section level1">
 <h1>Meeting times &amp; locations</h1>
-<p>M/W from 11:30 am - 1:20 pm in <del>MGH 044</del> via Zoom</p>
-<p>First class meeting: 10/31/2020</p>
-<p>Last class meeting: 12/09/2020</p>
+<p>M/W from 11:30 am - 1:20 pm in MGH 044</p>
+<p>First class meeting: 11/03/2021</p>
+<p>Last class meeting: 12/08/2021</p>
 <p><br></p>
 </div>
 <div id="pre-requisites" class="section level1">
@@ -483,7 +485,7 @@ Phone: 206-543-1240<br />
 <p>No student should ever have to choose between buying food or textbooks. The UW Food Pantry helps mitigate the social and academic effects of campus food insecurity. They aim to lessen the financial burden of purchasing food by providing students access to shelf-stable groceries, seasonal fresh produce, and hygiene products at <strong>no cost</strong>. Students can expect to receive 4 to 5 days’ worth of supplemental food support when they visit the Pantry, located on the north side of Poplar Hall at the corner of NE 41<sup>st</sup> St and Brooklyn Ave NE. Visit the <a href="https://uw.edu/anyhungryhusky">Any Hungry Husky website</a> for additional information, including operating hours and additional food support resources.</p>
 <p><br></p>
 <center>
-<em>This site was last updated at 17:19 on 16 Jun 2020</em>
+<em>This site was last updated at 12:13 on 07 May 2021</em>
 </center>
 </div>
 
@@ -537,7 +539,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

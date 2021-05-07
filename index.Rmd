@@ -1,6 +1,6 @@
 ---
 title: "Advanced R Programming"
-subtitle: "FISH 553 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Autumn 2020"
+subtitle: "FISH 553 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Autumn 2021"
 output:
   html_document:
     toc: true
@@ -10,17 +10,17 @@ output:
 
 <br>
 
-# Summer 2020 Updates
+# Spring 2021 Updates
 
 * Check out the [Enrollment FAQ](faq.html)
 * FISH 553 is 2nd in a series of 2 courses. 
-  * FISH 552 runs for 5 weeks: Wednesday 09/30/2020 to Wednesday 10/28/2020
-  * FISH 553 runs for the remaining 5 weeks: Monday 10/31/2020 to Wednesday 12/09/2020
-* How to enroll: The Autumn 2020 SLN for FISH 552 is 15320
-* How to enroll: The Autumn 2020 SLN for FISH 553 is 15321
+  * FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/01/2021
+  * FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/08/2021
+* How to enroll: The Autumn 2021 SLN for FISH 552 is 15581
+* How to enroll: The Autumn 2021 SLN for FISH 553 is 15582
 * You have to enroll in FISH 552 and 553 separately, if you want to take both.
 * You can enroll in just FISH 552 or 553 if this suits your educational goals
-* **I am preparing this 2020 course as a synchronous online offering--this means that we will meet during our scheduled course time via Zoom**
+* **Given the most recent information I have received from the UW, I am preparing this 2021 course as a synchronous in-person offering**
 
 <br>
 
@@ -52,11 +52,11 @@ Email: [kpjohns@uw.edu](mailto:kpjohns@uw.edu)
 <br>
 
 # Meeting times & locations
-M/W from 11:30 am - 1:20 pm in ~~MGH 044~~ via Zoom
+M/W from 11:30 am - 1:20 pm in MGH 044
 
-First class meeting: 10/31/2020 
+First class meeting: 11/03/2021 
 
-Last class meeting: 12/09/2020
+Last class meeting: 12/08/2021
 
 <br>
 
