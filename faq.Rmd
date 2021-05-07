@@ -1,0 +1,59 @@
+---
+title: "Advanced R Programming"
+subtitle: "Enrollment Frequently Asked Questions"
+output:
+  html_document:
+    toc: false
+    toc_float: true
+    toc_depth: 3
+---
+
+<br>
+
+**I am an incoming SAFS graduate student and I cannot yet enroll in UW courses. Will there be room for me?**
+
+Yes, I have reserved spaces for you. Please [email me](mailto:kpjohns@uw.edu), I have an add code waiting for you.
+
+<br>
+
+**The class description indicates that it is currently only open to graduate students and 5th year undergraduate students. Would there be space for me in this class?**
+
+
+Graduate and undergraduate students in the School of Aquatic and Fishery Sciences have first access to enrollment during the initial registration periods. However, the course is then open to UW graduate and undergraduate students from other departments. Based on upon historic enrollment, there is room after the initial enrollment periods. 
+
+<br>
+
+**I have previously taken FISH 274, does this give me enough background to be successful in your class?**
+
+I teach FISH 552 from the very basics (e.g., never used R before) and I think completing both courses (552/553) provides the upper division coding skills. I think you are a perfect candidate for these two courses, especially with 274 under your belt.
+
+<br>
+
+**I tried registering for the course using the SLN code, and the registration portal said that FISH 553 A is a restricted section and I do not meet the course entry requirements for the section. Can I have an add code?**
+
+FISH 552 is restricted to grads, seniors, and 5th year students only - you can see all of the restrictions in the course notes field [here](https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=AUT+2020&SLN=15320).
+
+<br>
+
+**I receive a time conflict error when I try to enroll in FISH 552 and 553. Can I have an add code?**
+
+Are you trying to enroll using MyPlan? Please try registering using the Registration page found in myUW.edu. 
+
+Please [email me](mailto:kpjohns@uw.edu) if you still encounter this error.
+
+<br>
+
+**Are statistics covered in FISH 553?**
+
+Not explictly. Our focus will be on using R and RStudio to prepare data for statistical analysis.
+
+<br>
+
+**I have a question not covered here!**
+
+Neat, send me an [email](mailto:kpjohns@uw.edu) with your question and I will provide an answer and likely post it here.
+
+
+<br>
+
+<center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
