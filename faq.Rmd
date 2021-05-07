@@ -29,6 +29,20 @@ I teach FISH 552 from the very basics (e.g., never used R before) and I think co
 
 <br>
 
+**I tried registering for the course using the SLN code, and the registration portal said that FISH 553 A is a restricted section and I do not meet the course entry requirements for the section. Can I have an add code?**
+
+FISH 552 is restricted to grads, seniors, and 5th year students only - you can see all of the restrictions in the course notes field [here](https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=AUT+2020&SLN=15320).
+
+<br>
+
+**I receive a time conflict error when I try to enroll in FISH 552 and 553. Can I have an add code?**
+
+Are you trying to enroll using MyPlan? Please try registering using the Registration page found in myUW.edu. 
+
+Please [email me](mailto:kpjohns@uw.edu) if you still encounter this error.
+
+<br>
+
 **Are statistics covered in FISH 553?**
 
 Not explictly. Our focus will be on using R and RStudio to prepare data for statistical analysis.

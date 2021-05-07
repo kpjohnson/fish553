@@ -14,8 +14,13 @@ output:
 
 * Check out the [Enrollment FAQ](faq.html)
 * FISH 553 is 2nd in a series of 2 courses. 
+<<<<<<< HEAD
   * FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/01/2021
   * FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/08/2021
+=======
+  * FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/02/2021
+  * FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/10/2021
+>>>>>>> 07ef9357887b7f431f66d4efd4c2a66737140b11
 * How to enroll: The Autumn 2021 SLN for FISH 552 is 15581
 * How to enroll: The Autumn 2021 SLN for FISH 553 is 15582
 * You have to enroll in FISH 552 and 553 separately, if you want to take both.
