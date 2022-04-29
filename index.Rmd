@@ -10,17 +10,17 @@ output:
 
 <br>
 
-# Spring 2021 Updates
+# Spring 2022 Updates
 
 * Check out the [Enrollment FAQ](faq.html)
 * FISH 553 is 2nd in a series of 2 courses. 
-* FISH 552 runs for 5 weeks: Wednesday 09/29/2021 to Wednesday 11/01/2021
-* FISH 553 runs for the remaining 5 weeks: Monday 11/03/2021 to Wednesday 12/08/2021
-* How to enroll: The Autumn 2021 SLN for FISH 552 is 15581
-* How to enroll: The Autumn 2021 SLN for FISH 553 is 15582
+* [FISH 552](https://kpjohnson.github.io/fish552/index.html) runs for 5 weeks: Wednesday 09/28/2022 to Wednesday 11/02/2022
+* FISH 553 runs for the remaining 5 weeks: Monday 11/07/2022 to Wednesday 12/07/2022
+* How to enroll: The Autumn 2021 SLN for FISH 552 is 15574
+* How to enroll: The Autumn 2021 SLN for FISH 553 is 15575
 * You have to enroll in FISH 552 and 553 separately, if you want to take both.
 * You can enroll in just FISH 552 or 553 if this suits your educational goals
-* **Given the most recent information I have received from the UW, I am preparing this 2021 course as a synchronous in-person offering**
+* **This 2022 course is in-person offering.**
 
 <br>
 
