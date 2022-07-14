@@ -1,6 +1,6 @@
 ---
 title: "Advanced R Programming"
-subtitle: "FISH 553 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Autumn 2021"
+subtitle: "FISH 553 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Autumn 2022"
 output:
   html_document:
     toc: true
@@ -54,9 +54,9 @@ Email: [kpjohns@uw.edu](mailto:kpjohns@uw.edu)
 # Meeting times & locations
 M/W from 11:30 am - 1:20 pm in MGH 044
 
-First class meeting: 11/03/2021 
+First class meeting: 11/07/2022
 
-Last class meeting: 12/08/2021
+Last class meeting: 12/07/2022
 
 <br>
 
